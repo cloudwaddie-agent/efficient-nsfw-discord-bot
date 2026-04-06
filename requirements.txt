@@ -1,0 +1,6 @@
+torch
+transformers
+discord.py
+Pillow
+requests
+numpy
